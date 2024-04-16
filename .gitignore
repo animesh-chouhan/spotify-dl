@@ -1,2 +1,7 @@
 spotify-dl/.env
 .cache
+env.sh
+outputs/HQ-DL
+*.pyc
+misc
+done
