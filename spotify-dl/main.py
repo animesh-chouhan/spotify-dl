@@ -30,12 +30,8 @@ stream = p.open(
 )
 print("PyAudio initialized")
 
-playlist_id = "3OOs5xqUk3yCEORnCoDKvj"
-output_dir = "outputs/HQ-DL"
-# playlist_id = "4f0iUuKMZXsvv23NhHzdi6"
-# output_dir = "outputs/Abhidha"
-# playlist_id = "3g1iUuKMZX3Nfg3e3Hzdi7"
-output_dir = "outputs/HQ-DL"
+playlist_id = "3g1iUuKMZX3Nfg3e3Hzdi7"
+output_dir = "outputs/PlaylistName"
 
 
 def record(track_name, record_seconds, tags):
